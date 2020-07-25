@@ -56,3 +56,33 @@
 
 // var gentlemenList = gentlemen.map((name) => ({ name: name, gender: 'male' }));
 // console.log(gentlemenList);
+
+//Practice
+
+// var fruits = ['apple', 'grapes'];
+// console.log(fruits);
+// console.log(Object.keys(fruits));
+
+// fruits.push('orange');
+// console.log(fruits);
+// console.log(Object.keys(fruits));
+
+// fruits[3] = 'banana';
+// console.log(fruits);
+// console.log(Object.keys(fruits));
+
+// fruits[5] = 'kiwi';
+// console.log(fruits);
+// console.log(Object.keys(fruits));
+// console.log(fruits.length);
+
+// fruits.forEach((fruits) => console.log(fruits));
+// // fruits.forEach((fruits, i) => console.log(i + 1 + ' ' + fruits));
+// fruits.forEach((fruits, i) => console.log(`${i + 1} ${fruits}`));
+
+// var fruitsList = fruits.map((fruits) => ({ name: fruits, type: 'good' }));
+// console.log(fruitsList);
+// console.log(fruits[4]);
+
+// var fruitsList = fruits.map((fruits) => ({ name: fruits }));
+// console.log(fruitsList);
