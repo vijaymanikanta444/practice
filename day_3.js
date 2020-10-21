@@ -43,7 +43,7 @@
 
 // hi(5);
 
-let friends = ['rishi', 'Harish', 'praveen'];
+// let friends = ['rishi', 'Harish', 'praveen'];
 
-friends.map((friend) => console.log(friend));
+// friends.map((friend) => console.log(friend));
 // friends.forEach((f) => console.log(f));
